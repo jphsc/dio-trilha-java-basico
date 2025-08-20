@@ -28,5 +28,4 @@ public class ContaPoupanca extends Conta {
 	public String toString() {
 		return "ContaPoupanca [juros=" + juros + "]";
 	}
-	
 }

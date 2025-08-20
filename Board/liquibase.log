@@ -1,0 +1,39 @@
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508171509xx.sql
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508171513xx.sql
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508171530xx.sql
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading resource: db/changelog/migrations/db.changelog-202508171540xx.sql
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading from dio_java.databasechangelog
+Database is up to date, no changesets to execute
+ago. 19, 2025 10:08:52 PM liquibase.changelog
+INFO: Reading from dio_java.databasechangelog
+
+UPDATE SUMMARY
+Run:                          0
+Previously run:               4
+Filtered out:                 0
+-------------------------------
+Total change sets:            4
+
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: UPDATE SUMMARY
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: Run:                          0
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: Previously run:               4
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: Filtered out:                 0
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: -------------------------------
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: Total change sets:            4
+ago. 19, 2025 10:08:52 PM liquibase.util
+INFO: Update summary generated
+ago. 19, 2025 10:08:52 PM liquibase.lockservice
+INFO: Successfully released change log lock
+ago. 19, 2025 10:08:52 PM liquibase.command
+INFO: Command execution complete

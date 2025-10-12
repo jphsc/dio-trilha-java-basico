@@ -12,9 +12,9 @@ public final class ConnectionConfig {
 	
 	public static Connection getConnection() throws Exception {
 		
-		String user = PropertitesApplication.loadProperties().getProperty("db.data.user");
-		String password = PropertitesApplication.loadProperties().getProperty("db.data.password");
-		String url = PropertitesApplication.loadProperties().getProperty("db.data.url");
+		String user = PropertiesApplication.loadProperties().getProperty("db.data.user");
+		String password = PropertiesApplication.loadProperties().getProperty("db.data.password");
+		String url = PropertiesApplication.loadProperties().getProperty("db.data.url");
 		
 		Connection connection = DriverManager.getConnection(url, user, password);
 		connection.setAutoCommit(false);

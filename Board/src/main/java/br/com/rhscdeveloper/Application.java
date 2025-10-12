@@ -27,8 +27,8 @@ public class Application {
 			
 			boardService.findAll().forEach(c -> System.out.println(c));
 			
-//			boardService.delete(3);
-//			boardService.findAll().forEach(c -> System.out.println(c));
+			boardService.delete(3);
+			boardService.findAll().forEach(c -> System.out.println(c));
 			
 			
 		} catch (Exception e) {
